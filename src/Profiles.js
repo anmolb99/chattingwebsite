@@ -17,6 +17,7 @@ class Profiles extends Component {
                 <div className="main3">
                     <div className="inside3">
                     <div className="left0">
+                        <div className="leftinside">
                         <div className="one1">
                         <Card style={{ width: '12rem' }}>
                         <Card.Img variant="top" src="card1.jpg" />
@@ -142,6 +143,49 @@ class Profiles extends Component {
     
                         </Card.Body>
                         </Card>
+                        </div>
+                        <div className="ten10">
+                        <Card style={{ width: '12rem' }}>
+                        <Card.Img variant="top" src="card9.jpg" />
+                        <Card.Body>
+                        <Card.Title>
+                            Card Title
+                        </Card.Title>
+                        <Card.Text>
+                            Some quick 
+                        </Card.Text>
+    
+                        </Card.Body>
+                        </Card>
+                        </div>
+                        <div className="eleven11">
+                        <Card style={{ width: '12rem' }}>
+                        <Card.Img variant="top" src="card9.jpg" />
+                        <Card.Body>
+                        <Card.Title>
+                            Card Title
+                        </Card.Title>
+                        <Card.Text>
+                            Some quick 
+                        </Card.Text>
+    
+                        </Card.Body>
+                        </Card>
+                        </div>
+                        <div className="twelve12">
+                        <Card style={{ width: '12rem' }}>
+                        <Card.Img variant="top" src="card9.jpg" />
+                        <Card.Body>
+                        <Card.Title>
+                            Card Title
+                        </Card.Title>
+                        <Card.Text>
+                            Some quick 
+                        </Card.Text>
+    
+                        </Card.Body>
+                        </Card>
+                        </div>
                         </div>
                     </div>
 
